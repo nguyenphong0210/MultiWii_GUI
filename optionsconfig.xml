@@ -3,7 +3,7 @@
 <CONFIG>
 
 
-  <VERSION id="231" />
+  <VERSION id="230" />
   <NAVIVERSION id="7" />
   
   <PID id="0" name="Roll" desc="Roll Rate control" />
